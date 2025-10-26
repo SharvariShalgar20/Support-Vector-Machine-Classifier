@@ -1,3 +1,5 @@
+import numpy as np
+
 class SVM_Classifier:
 
   #Initializing the hyperparameter
